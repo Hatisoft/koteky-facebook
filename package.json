@@ -1,0 +1,40 @@
+{
+  "name": "koteky-facebook",
+  "version": "0.0.1",
+  "description": "facebook plugin for the koteky",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hatisoft/koteky-twitter.git"
+  },
+  "keywords": [
+    "facebook",
+    "koteky",
+    "social-network"
+  ],
+  "author": "kanekotic",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Hatisoft/koteky-twitter/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Hatisoft/koteky-twitter/issues"
+  },
+  "devDependencies": {
+    "blanket": "^1.2.1",
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "sinon": "^1.17.2",
+    "sinon-chai": "^2.8.0"
+  },
+  "dependencies": {
+    "flowdock-text": "^1.2.0",
+    "koteky-lib": "^0.2.3",
+    "oauth-electron-facebook": "^0.1.1"
+  }
+}
