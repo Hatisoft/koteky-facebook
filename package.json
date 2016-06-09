@@ -33,6 +33,7 @@
     "sinon-chai": "^2.8.0"
   },
   "dependencies": {
+    "fb": "^1.1.1",
     "flowdock-text": "^1.2.0",
     "koteky-lib": "^0.2.3",
     "oauth-electron-facebook": "^0.1.1"
