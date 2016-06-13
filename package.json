@@ -1,6 +1,6 @@
 {
   "name": "koteky-facebook",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "facebook plugin for the koteky",
   "main": "index.js",
   "scripts": {
